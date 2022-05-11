@@ -1,2 +1,4 @@
 # HomeAssistantApp
-Integration of Home Assistant into a application
+Integration of Home Assistant into a mobile application
+
+
